@@ -9,14 +9,14 @@ body {
 .image-section img{
     width: 110px;
     position: absolute;
-    left: 24%;
+    left: 22%;
     margin-top: 20px;
     z-index: 999;
 }
 
 .resume {
     width: 80%;
-    max-width: 800px;
+    max-width: 900px;
     margin: 20px auto;
     padding: 20px;
     background: #000;
