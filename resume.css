@@ -8,7 +8,7 @@ body {
 
 .resume {
     width: 80%;
-    max-width: 850px;
+    max-width: 800px;
     margin: 20px auto;
     padding: 20px;
     background: #000;
@@ -26,7 +26,7 @@ body {
 .header h1 {
     margin: 0;
     font-size: 2em;
-    margin-right: 45%;
+    margin-right: 40%;
 }
 
 .header p {
